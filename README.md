@@ -2,7 +2,7 @@
 Stock ChromeOS Installer/Dual-booter for non ChromeOS devices
 <br>
 
-❗ This program is currently untested, please expect errors.
+❗ This program is currently untested
 
 ---
 
